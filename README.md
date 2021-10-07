@@ -2,7 +2,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muchammad Fariq Maulana </h1>
 
-<h2 align="center">a fullstack guy</h2>
+<h2 align="center">u can call me "full stack guy"</h2>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
