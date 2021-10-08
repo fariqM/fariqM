@@ -39,12 +39,14 @@
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fariqM&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fariqM&include_all_commits=true&theme=nightowl&show_icons=true&count_private=true&bg_color=45,0E0714,1F0B29,2A0E37,461459,751F92" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fariqM&theme=dark&hide_border=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com?user=fariqM&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&sideLabels=661CDD&fire=DD641A" />
+  
+  
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fariqM&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fariqM&bg_color=90,0E0714,1F0B29,2A0E37,461459,751F92&theme=nightowl&langs_count=7"/>
   
   </td>
 </tr>
