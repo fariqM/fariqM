@@ -46,7 +46,8 @@
   
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fariqM&bg_color=90,0E0714,1F0B29,2A0E37,461459,751F92&theme=nightowl&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariqM&bg_color=90,0E0714,1F0B29,2A0E37,461459,751F92&theme=nightowl&langs_count=7"/>
+<!--   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/> -->
   
   </td>
 </tr>
