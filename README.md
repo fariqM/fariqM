@@ -1,12 +1,14 @@
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Muchammad Fariq Maulana </h1>
+<h1 align="center">Hi 
+<!--   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
+  , I am Muchammad Fariq Maulana </h1>
 
-<h2 align="center">u can call me "full stack guy"</h2>
-<hr>
+<h2 align="center">Fullstack web/mobile dev</h2>
+<!-- <hr> -->
 
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
 
 
 ### 🛠 &nbsp;Most Used
@@ -21,7 +23,7 @@
 </div>
 
 <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         -->
 <br>  
 <table border="0" align="center">
 <tr border="0">
@@ -33,7 +35,12 @@
   
 </td>
 <td width="50%" align="center">
-<!--   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariqM&bg_color=90,0E0714,1F0B29,2A0E37,461459,751F92&theme=nightowl&langs_count=7"/> -->
+  
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fariqM&bg_color=90,0E0714,1F0B29,2A0E37,461459,751F92&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fariqM&count_private=true) -->
 <!--   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/> -->
   
   </td>
@@ -42,6 +49,6 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 </p>  
                                                                                     
